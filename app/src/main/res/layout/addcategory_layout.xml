@@ -91,11 +91,12 @@
 
         <ImageView
             android:id="@+id/img_addcategory_ThemHinh"
-            android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
             android:layout_marginTop="20dp"
             android:scaleType="fitXY"
-            android:src="@drawable/menu" />
+            android:src="@drawable/anhcaphe" />
 
 
 

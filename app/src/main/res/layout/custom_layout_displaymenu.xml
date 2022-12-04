@@ -10,17 +10,17 @@
             android:id="@+id/img_custommenu_HinhMon"
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:src="@drawable/cafe_americano"
+            android:src="@drawable/anhcaphe"
             android:scaleType="fitXY"
             />
         <TextView
             android:id="@+id/txt_custommenu_TenMon"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
             android:fontFamily="@font/muli_black"
 
-            android:text="Caffè Americano Iced"
+            android:text="Caffe Americano Iced"
             android:layout_gravity="bottom"
             android:textSize="20sp"
             android:padding="5dp"/>
