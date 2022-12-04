@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/girl"
+
     android:orientation="vertical"
     >
 
@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="7dp"
-        android:text="   1. Thành viên nhóm (Leader):"
+        android:text="   1.Nguyễn Đức Quân(Leader):"
         android:textColor="@color/colorBlack"
 
         android:textSize="15sp" />
@@ -53,7 +53,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="7dp"
-        android:text="   2. Thành viên nhóm"
+        android:text="   2. Nguyễn Thế Hiển"
         android:textAllCaps="true"
         android:textColor="@color/colorBlack"
         android:textSize="15sp" />
@@ -70,7 +70,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="-10dp"
-        android:text="   TS. xxx"
+        android:text="   TS. Trần Đức Điệp"
         android:textAllCaps="true"
         android:textColor="@color/colorBlack"
         android:textSize="15sp" />
@@ -79,7 +79,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="   GV. Trường đại học xxx thành phố hồ chí minh đã hướng dẫn nhóm em hoàn thành dự án này"
+        android:text="   GV. Trường đại học Điện Lực đã hướng dẫn nhóm em hoàn thành dự án này"
         android:textAllCaps="true"
         android:textColor="@color/colorBlack"
         android:textSize="15sp" />

@@ -27,7 +27,7 @@
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:layout_gravity="center"
-            android:background="@drawable/girl"
+            android:background="@drawable/anhcaphe"
           />
 
         <ImageView
@@ -79,7 +79,7 @@
                     android:layout_weight="1"
                     android:drawableRight="@drawable/ic_baseline_navigate_next_24"
                     android:gravity="end"
-                    android:text="Demo App "
+                    android:text="Nguyễn Đức Quân "
                     android:textSize="16sp" />
             </LinearLayout>
 
@@ -110,7 +110,7 @@
                     android:layout_weight="1"
                     android:drawableRight="@drawable/ic_baseline_navigate_next_24"
                     android:gravity="end"
-                    android:text="0123456789 "
+                    android:text="0971442307"
                     android:textSize="16sp" />
             </LinearLayout>
 
@@ -141,7 +141,7 @@
                     android:layout_weight="1"
                     android:drawableRight="@drawable/ic_baseline_navigate_next_24"
                     android:gravity="end"
-                    android:text="HCM City "
+                    android:text="Ha Noi"
                     android:textSize="16sp" />
             </LinearLayout>
 
@@ -172,7 +172,7 @@
                     android:layout_weight="1"
                     android:drawableRight="@drawable/ic_baseline_navigate_next_24"
                     android:gravity="end"
-                    android:text="demo app @gmail.com"
+                    android:text="ndquan@gmail.com"
                     android:textSize="16sp" />
 
             </LinearLayout>
